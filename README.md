@@ -2,8 +2,11 @@
 
 
 I’m a Data Analytics graduate who loves exploring how data can explain real-world stories.<br>
+
 I’m not the “I know everything” kind of analyst — I’m the “give me raw data, a laptop, and some time… I’ll figure it out” type.<br>
+
 Right now, I’m building my foundation in SAS, SQL, Python, visualization tools, and statistical modeling — and turning classroom knowledge into practical, useful insights.<br>
+
 I enjoy solving messy data problems, understanding patterns, and making results clear enough that even someone outside tech can take decisions confidently.
 ________________________________________
 🧠 What I’m Good At<br>
