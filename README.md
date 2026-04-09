@@ -5,22 +5,22 @@ I’m a Data Analytics graduate who loves exploring how data can explain real-wo
 
 I’m not the “I know everything” kind of analyst — I’m the “give me raw data, a laptop, and some time… I’ll figure it out” type.<br>
 
-Right now, I’m building my foundation in SAS, SQL, Python, visualization tools, and statistical modeling — and turning classroom knowledge into practical, useful insights.<br>
+Right now, I’m building my foundation in SQL, Python, visualization tools, and statistical modeling — and turning classroom knowledge into practical, useful insights.<br>
 
 I enjoy solving messy data problems, understanding patterns, and making results clear enough that even someone outside tech can take decisions confidently.
 ________________________________________
 🧠 What I’m Good At<br>
 
-- Writing efficient SAS programs, building macros, and performing advanced data wrangling using PROC SQL.
+- Writing efficient  programs, building macros, and performing advanced data wrangling.
 - Applying statistical modeling (Regression, ANOVA, Logistic) with proper diagnostics and interpretation.
 - Designing structured datasets, optimized SQL queries, and clear analytical reports/dashboards.
-- Working with ML workflows in SAS Viya, including model training, evaluation, and feature analysis.
+- Working with ML workflows , including model training, evaluation, and feature analysis.
   
 ________________________________________
 🔥 What I’m Currently Doing <br>
 
 •	Practicing analytics using real datasets<br>
-•	Exploring SAS Viya, ML workflows, and forecasting models<br>
+•	Exploring  ML workflows, and forecasting models<br>
 •	Building small case studies to strengthen my portfolio<br>
 •	Preparing for my first data analyst role<br>
 ________________________________________
