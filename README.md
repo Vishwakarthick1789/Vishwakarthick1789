@@ -31,7 +31,7 @@ ________________________________________
 -	Multiple Academic Gold & Silver Medals<br>
 -	SAS Certified Associate<br>
 -	Passionate about analytics, cloud, and automation<br>
-- Table Tennis Professional (because life isn’t only about code 😄)<br>
+- Table Tennis Professional (because life isn’t only about coding 😄)<br>
 ________________________________________
 🌱 What I Believe<br>
 
@@ -42,5 +42,5 @@ ________________________________________
 
 •	 📧 Email: vishwakarthick1789@gmail.com<br>
 •  https://www.linkedin.com/in/vishwakarthick1789/<br>
-•	 💬 Always open for collaborations, learning, and new ideas
+•	 💬 Always open for collaborations, internships, learning, and new ideas
 
