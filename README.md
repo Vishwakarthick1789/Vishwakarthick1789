@@ -27,7 +27,7 @@ ________________________________________
 🎖 A Little Bit About My Journey<br>
 
 -	Graduated with B.Sc Data Analytics<br>
--	Best Outgoing Student<br>
+-	Best Outgoing Student 2025 <br>
 -	Multiple Academic Gold & Silver Medals<br>
 -	SAS Certified Associate<br>
 -	Passionate about analytics, cloud, and automation<br>
