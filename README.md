@@ -36,7 +36,7 @@ ________________________________________
 🌱 What I Believe<br>
 
 I strongly believe that data becomes powerful only when it is explained well.<BR>
-My goal is to become a data analyst who not only works with numbers but also communicates them with clarity and confidence.<BR>
+My goal is to become a Data analyst who not only works with numbers but also communicates them with clarity and confidence.<BR>
 ________________________________________
 📬 Let’s Connect<br>
 
