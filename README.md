@@ -16,7 +16,7 @@
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=700&color=7B68EE&center=true&vCenter=true&width=650&lines=Building+End-to-End+ML+Pipelines+%F0%9F%A4%96;Time+Series+Forecasting+%7C+Deep+Learning+%F0%9F%A7%A0;Generative+AI+%7C+RAG+%7C+LLMs+%F0%9F%92%AC;Environmental+Analytics+%40+IISc+Bengaluru+%F0%9F%94%AC;Gold+Medalist+%7C+MSc+Data+Science+%40+CHRIST+%F0%9F%8F%85" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=700&color=7B68EE&center=true&vCenter=true&width=650&lines=Building+End-to-End+ML+Pipelines+%F0%9F%A4%96;Time+Series+Forecasting+%7C+Deep+Learning+%F0%9F%A7%A0;Generative+AI+%7C+RAG+%7C+LLMs+%F0%9F%92%AC" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -36,12 +36,11 @@ interests:
   - Time Series Forecasting & Signal Processing
   - Generative AI, RAG & LLM Applications
   - Computer Vision & IoT Analytics
-  - Environmental Data Science
 currently:
   learning:  Advanced Transformers, MLOps, LLM Fine-tuning
   building:  AI-powered screening & environmental forecasting systems
   open_to:   Research collaborations, Internships, Open-source contributions
-contact:     vishwa.karthick@msds.christuniversity.in  |  +91 88259 06079
+  contact:   vishwa.karthick@msds.christuniversity.in  |  +91 88259 06079
 ```
 
 ---
@@ -151,8 +150,6 @@ End-to-end environmental analytics system for predicting water quality parameter
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 📐 Statistical & Domain Tools
-![SAS](https://img.shields.io/badge/SAS-0076BD?style=for-the-badge&logo=sas&logoColor=white)
 
 ---
 
