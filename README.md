@@ -271,11 +271,11 @@ End-to-end environmental analytics system for predicting water quality parameter
 ## 🗺️ Current Learning Roadmap
 
 ```text
-2025 Q3   ████████████░░░░░░░░   Advanced Transformer Architectures
-2025 Q4   ██████████░░░░░░░░░░   MLOps — MLflow, Docker, CI/CD
-2026 Q1   ████████░░░░░░░░░░░░   LLM Fine-tuning & RLHF
-2026 Q2   ██████░░░░░░░░░░░░░░   Distributed Training & Model Serving
-2026 Q3   ████░░░░░░░░░░░░░░░░   Research Paper Writing & Publication
+2025   ████████████░░░░░░░░   Advanced Transformer Architectures
+2025   ██████████░░░░░░░░░░   MLOps — MLflow, Docker, CI/CD
+2026   ████████░░░░░░░░░░░░   LLM Fine-tuning & RLHF
+2026   ██████░░░░░░░░░░░░░░   Distributed Training & Model Serving
+2026   ████░░░░░░░░░░░░░░░░   Research Paper Writing & Publication
 ```
 
 ---
