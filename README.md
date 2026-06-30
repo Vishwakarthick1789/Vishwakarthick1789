@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Vishwa%20Karthick-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="mailto:vishwa.karthick@msds.christuniversity.in"><img src="https://img.shields.io/badge/Email-vishwa.karthick%40msds-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-vishwakarthick-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/Vishwakarthick1789"><img src="https://img.shields.io/badge/GitHub-Vishwakarthick1789-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20India-FF5722?style=flat-square&logo=google-maps&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Research-brightgreen?style=flat-square&logo=handshake&logoColor=white"/>
 </div>
@@ -74,7 +74,7 @@ currently:
 <td width="50%" valign="top">
 
 ### 🧠 NexusScreen — AI Resume Intelligence System
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](https://github.com/Vishwakarthick1789/NexusScreen)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 ![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20GenAI%20%7C%20RAG-blueviolet?style=flat-square)
 
@@ -150,25 +150,61 @@ End-to-end environmental analytics system for predicting water quality parameter
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishwakarthick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=7B68EE&icon_color=7B68EE&text_color=c9d1d9&ring_color=7B68EE" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwakarthick&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7B68EE&text_color=c9d1d9" />
+<img src="https://komarev.com/ghpvc/?username=Vishwakarthick1789&label=Profile%20Views&color=7B68EE&style=flat-square" alt="Profile views"/>&nbsp;
+<img src="https://img.shields.io/github/followers/Vishwakarthick1789?label=Followers&style=flat-square&color=7B68EE" alt="Followers"/>&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FVishwakarthick1789&style=flat-square&color=7B68EE" alt="Public repos"/>&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?label=Public%20Gists&query=public_gists&url=https%3A%2F%2Fapi.github.com%2Fusers%2FVishwakarthick1789&style=flat-square&color=7B68EE" alt="Public gists"/>
 
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="160">
+<h3>15</h3>
+<sub>Public Repositories</sub>
+</td>
+<td align="center" width="160">
+<h3>10</h3>
+<sub>Stars Earned</sub>
+</td>
+<td align="center" width="160">
+<h3>6</h3>
+<sub>Followers</sub>
+</td>
+<td align="center" width="160">
+<h3>14</h3>
+<sub>Languages Used</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  "Most used languages — Python, TypeScript, JavaScript, CSS, Dart, Java"
+</div>
+
+<sub align="center">↑ Computed directly from the GitHub API across all 15 repos and committed as a static file — renders instantly, no third-party widget downtime.</sub>
+
+<br/><br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Vishwakarthick1789&theme=tokyonight-duo&hide_border=true&background=00000000&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE" height="150" alt="GitHub streak stats"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=vishwakarthick&theme=tokyonight-duo&hide_border=true&background=00000000&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE" height="150"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwakarthick1789&bg_color=00000000&color=7B68EE&line=7B68EE&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwakarthick&bg_color=00000000&color=7B68EE&line=7B68EE&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</div>
+> 📝 *Note: GitHub does not expose data on who viewed your profile or who followed you most recently — that information is private by design. The Profile Views counter above tracks total visits, and the Followers count updates live.*
 
 ---
 
@@ -290,7 +326,7 @@ I'm always open to discussing ML research, data science problems, internship opp
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)&nbsp;
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishwa.karthick@msds.christuniversity.in)&nbsp;
-[![GitHub Follow](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![GitHub Follow](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vishwakarthick1789)
 
 <br/><br/>
 
