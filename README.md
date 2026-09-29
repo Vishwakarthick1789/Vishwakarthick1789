@@ -200,9 +200,7 @@ End-to-end environmental analytics system for predicting water quality parameter
   <img src="https://streak-stats.demolab.com?user=Vishwakarthick1789&theme=tokyonight-duo&hide_border=true&background=00000000&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE" height="150" alt="GitHub streak stats"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwakarthick1789&bg_color=00000000&color=7B68EE&line=7B68EE&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
-</div>
+
 
 > 📝 *Note: GitHub does not expose data on who viewed your profile or who followed you most recently — that information is private by design. The Profile Views counter above tracks total visits, and the Followers count updates live.*
 
